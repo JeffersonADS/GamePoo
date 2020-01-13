@@ -8,3 +8,6 @@ Desenvolvedores:
 Bruno José Bastos dos Reis &&
 Jefferson da Silva Teixeira.  
 Os arquivos referentes ao jogo estão compactados no formato ZIP.
+
+[Vídeo 1](https://youtu.be/7d2DUMeq-N0)  
+[Vídeo 2](https://youtu.be/K5u5C_sBCL4)
